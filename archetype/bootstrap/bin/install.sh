@@ -4,7 +4,7 @@
 # There are some sanity checks to try and ensure that the script was
 # downloaded and installed (copied) correctly on the users classpath.
 
-DEFAULT_INSTALL_DIR='/usr/local/bin'
+DEFAULT_INSTALL_DIR='C:\LHN\beadledom'
 DEFAULT_REPO='${beadledom.url}/beadledom-archetype/downloads'
 
 RESET='\e[0m'           # Reset
